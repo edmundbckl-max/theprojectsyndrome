@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Project Syndrome - Home Page</title>
+	 <meta name="description" content="The website is an online portfolio and shop for multi-faceted artist Edmund Buckley">
+<meta name="author" content="Edmund Buckley">
+			   
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link href="css/styles.css" rel="stylesheet">
+      
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+			  
+		  
+	  
+	  
+	  
+	  
+  </head>
+  <body style="padding-top: 70px">
+  	  	<!-- body code goes here -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#">TPS</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="visualarts.html">Visual Arts</a> </li>
+			<li class="nav-item active"> <a class="nav-link" href="literature.html">Literature</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="films.html">Films</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="shop.html">Shop</a> </li>
+          
+        </ul>
+        <form action="https://www.google.ie/search" class="form-inline my-2 my-lg-0">
+          <input name="q" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav> <!-- navigation bar closed-->
+  
+	  
+	   
+      <div class="container-fluid">
+  <div class="row">
+    <!-- Left Column -->
+    <section class="col-sm-12 col-lg-6">
+      <h2>Literature</h2>
+      <p>In this section you can listen to extracts from Poetry, Fiction and Short Stories</p>
+
+      <ol class="makeup">
+        <li>Poetry</li>
+        <li>Fiction</li>
+        <li>Short Stories</li>
+          <ol class="makeup">
+    
+
+  <!-- ================== TWO COLUMN CONTENT ================== -->
+  <div class="two-columns">
+    
+    <!-- LEFT COLUMN -->
+    <div class="column">
+      <h3>Poetry</h3>
+      <p>In this section you can listen to extracts from <em>Captivate Renaissance</em> and <em>A Nomadic Exchange</em> by Edmund Buckley.</p>
+      
+      <img src="../tps/images/literature/poetry/Captivate Renaissance Cover.jpg" alt="Captivate Renaissance Cover">
+      <audio controls><source src="../tps/Captured Emotion.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/A War For Greed of Filth.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/Buddha Ban.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/The Capricorn's Warning.mp3" type="audio/mpeg"></audio>
+
+      <img src="../tps/images/literature/poetry/ANE FRONT COVER.jpg" alt="A Nomadic Exchange Cover">
+      <audio controls><source src="../tps/America.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/Nomadic Ireland.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/Speak Not of War Children.mp3" type="audio/mpeg"></audio>
+      <audio controls><source src="../tps/The Zodiac's Companion.mp3" type="audio/mpeg"></audio>
+
+      <p>You can also purchase an ebook of both collections.</p>
+      <dl>
+        <dt>Buy Ebooks</dt>
+        <dd>Captivate Renaissance</dd>
+        <dd>A Nomadic Exchange</dd>
+      </dl>
+
+      <h3>Fiction</h3>
+      <p>Listen to extracts from three novels: <em>Endangered Souls</em>, <em>The Death of a Socialite</em>, and <em>The Winding Reign</em>.</p>
+
+      <img src="../tps/images/literature/novels/Endangered Souls.jpg" alt="Endangered Souls Cover">
+      <p>Endangered Souls</p>
+      <audio controls><source src="../tps/Endangered Souls.mp3" type="audio/mpeg"></audio>
+
+      <img src="../tps/images/literature/novels/Book Front Cover.jpg" alt="The Death of a Socialite Cover">
+      <p>The Death of a Socialite</p>
+      <audio controls><source src="../tps/The Death of a Socialite.mp3" type="audio/mpeg"></audio>
+
+      <img src="../tps/images/literature/novels/TWR FRONT COVER.PNG" alt="The Winding Reign Cover">
+      <p>The Winding Reign</p>
+      <audio controls><source src="../tps/The Winding Reign.mp3" type="audio/mpeg"></audio>
+
+      <p>You can also purchase ebooks of all three and paperbacks of <strong>The Winding Reign</strong>.</p>
+
+      <h3>Short Stories</h3>
+      <p>Listen to short stories written by Edmund Buckley:</p>
+      <p>Safe From Harm</p><audio controls><source src="../tps/Safe From Harm.mp3" type="audio/mpeg"></audio>
+      <p>Enough</p><audio controls><source src="../tps/Enough.mp3" type="audio/mpeg"></audio>
+      <p>Caroline</p><audio controls><source src="../tps/Caroline.mp3" type="audio/mpeg"></audio>
+      <p>Yellow</p><audio controls><source src="../tps/Yellow.mp3" type="audio/mpeg"></audio>
+      <p>Voyage</p><audio controls><source src="../tps/Voyage.mp3" type="audio/mpeg"></audio>
+    </div>
+
+     </ol>
+     </section>
+
+    <!-- Right Column -->
+    <section class="col-sm-12 col-lg-6">
+    <div class="column">
+    <section class="col-sm-12 col-lg-6 text-end">
+      <h2>Literature Overview</h2>
+     
+  <h3>Poetry – About the Works</h3>
+      <p><strong><br>
+      </strong></p><br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      <p><strong>Captivate Renaissance</strong> is divided into two parts: <em>Tales of Hardship</em> and <em>Songs of Virtue</em>. The first explores pre-boom Ireland through hardship and realism, while the second opens into light-hearted multicultural optimism.</p>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+          <br>
+        <br>
+        <br>
+        <br>
+        <p><strong>A Nomadic Exchange</strong> consists of 39 poems addressing social and cultural tensions, exploring how contrasting traditions coexist in modern society.</p>
+ <br>
+         <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br> <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      <h3>Fiction – About the Novels</h3>
+      <br>
+        <br>
+        <br>
+        <p><strong><em>Endangered Souls</em></strong> follows Gerald Butler, a young artist in Dublin trying to navigate ambition, family, and identity.</p>
+      
+          <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p><strong><em>The Death of a Socialite</em></strong> delves into the mind of Gareth Rafter as he wrestles with alienation in a corrupt world.</p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      <p><strong><em>The Winding Reign</em></strong> is a lyrical novel chronicling Gareth Rafter’s inner struggles in a world that feels too heavy to bear.</p>
+      <dl>
+        <dt>Buy Novels</dt>
+        <dd>Ebooks and Paperbacks Available</dd>
+      </dl>
+<br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      <h3>Short Stories – Background</h3>
+      <p>These short stories were written when Edmund was an undergraduate of <em>English, Media and Cultural Studies</em> at <strong>IADT</strong>. They have inspired many of his later works and films.</p>
+      <p>He is currently compiling a new short story collection and writing a new novel.</p>
+    
+
+    <!-- Right Column -->
+    
+      <!-- etc... -->
+    
+
+
+		 
+  
+	
+	  
+	 
+	<div class="container">
+	 <div class="row">
+		 
+		<footer>
+		<h2 class="contact">Contact Us</h2>
+		 <div class="footerL col-sm-12 col-lg-6">
+		<p>edmundbckl@gmail.com&nbsp;&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+			 
+			 <p><a href="#top">Back to top</a></p>	 
+	 
+			</div>
+		 
+	<div class="footerR col-sm-12 col-lg-6">
+	<p><a href="mailto:edmundbckl@gmail.com"> Send Email</a></p>		
+	<p><a href="tel:0831748944">Tel: 0831748944</a></p>		
+	<p><a href="https://www.instagram.com/" target="_blank">Instagram &trade;</a></p>		
+	<p class="linked"><a href="https://ww.linkedin.com/" target="_blank">Linkedin</a></p>		
+	</div>
+				
+		 </footer>
+		</div>
+	  </div> 
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
