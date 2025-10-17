@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Project Syndrome - Home Page</title>
+	 <meta name="description" content="The website is an online portfolio and shop for multi-faceted artist Edmund Buckley">
+<meta name="author" content="Edmund Buckley">
+			   
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link href="css/styles.css" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+
+  </head>
+  <body style="padding-top: 70px">
+  	<!-- body code goes here -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#">TPS</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="visualarts.html">Visual Arts</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="literature.html">Literature</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="films.html">Films</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+			<li class="nav-item active"> <a class="nav-link" href="shop.html">Shop</a> </li>
+          
+        </ul>
+        <form action="https://www.google.ie/search" class="form-inline my-2 my-lg-0">
+          <input name="q" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav> <!-- navigation bar closed-->
+  
+	  
+	<div class="container"> 
+	<div class="row">
+		
+	<section class="col-sm-12">
+		 
+		<form action="#" id="frmComment" name="frmComment" method="post">
+		<h2>Shop -Products are Coming Soon!</h2>
+		
+		<label for="name">
+			
+			<span> First Name:</span> <input type="text" id="name" name="name"
+			placeholder="Enter First Name">
+			</label>
+			
+		<label for="surname">
+				
+			<span>Surname:</span> <input type="text" id="surname" name="surname"
+			placeholder="Enter Surname">
+			</label>
+			
+			
+		<label for="email">
+			
+		<span>Email:</span> <input type="email" multiple id="email" name="email"
+			placeholder="Enter Email Address">
+			</label>
+			
+		<label for="choose">
+		<span>Topic:</span>	
+		<select id="choose">
+		<option value="">Please click here to choose</option>	
+		<option value="option1"> Home</option>	
+		<option value="option2"> Clothes</option>
+		<option value="option3"> MakeUp</option>
+		<option value="option4"> Perfume</option>
+		<option value="option5"> Accessories</option>	
+			</select>
+			</label>
+			
+		<label for="display">
+			
+		<span>Username:</span> <input type="text" id="display" name="display"
+			placeholder="Type Username Here">
+			</label>
+			
+	<label for="comment">
+			
+		<span>Comment:</span> 
+		<textarea rows="5" cols="55" id="comment" name="comment">
+		</textarea>
+			</label>
+			
+	<input type="submit" value="Leave a comment!" name="submit" class="button">
+			
+		</form>
+		
+	
+		 </section>
+		 
+	 
+	
+			</div>
+		  </div>					
+
+	<div class="container">
+	 <div class="row">
+		
+		<footer>
+		<h2 class="contact">Contact Us</h2>
+		 <div class="footerL col-sm-12 col-lg-6">
+		<p>edmundbckl@gmail.com&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+			 
+			 <p><a href="#top">Back to top</a></p>	 
+	 
+			</div>
+		 
+	<div class="footerR col-sm-12 col-lg-6">
+	<p><a href="mailto:edmundbckl@gmail.com"> Send Email</a></p>		
+	<p><a href="tel:0831748944">Tel: 0831748944</a></p>		
+	<p><a href="https://www.instagram.com/" target="_blank">Instagram &trade;</a></p>		
+	<p class="linked"><a href="https://ww.linkedin.com/" target="_blank">Linkedin</a></p>		
+	</div> 
+				
+		 </footer>
+		</div>
+	  </div> 
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
