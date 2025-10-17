@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Project Syndrome - Home Page</title>
+	 <meta name="description" content="The website is an online portfolio and shop for multi-faceted artist Edmund Buckley">
+<meta name="author" content="Edmund Buckley">
+			   
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link href="css/styles.css" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+  <body style="padding-top: 70px">
+<!-- body code goes here -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#">TPS</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="visualarts.html">Visual Arts</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="literature.html">Literature</a> </li>
+			<li class="nav-item active"> <a class="nav-link" href="films.html">Films</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="shop.html">Shop</a> </li>
+          
+        </ul>
+        <form action="https://www.google.ie/search" class="form-inline my-2 my-lg-0">
+          <input name="q" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav> <!-- navigation bar closed-->
+  
+	  
+	<div class="container"> 
+	<div class="row">
+		
+	<section class="col-sm-12 col-lg-8">
+		 
+	<h2> Films&nbsp; </h2>
+		
+		<p> <span class="cColour italic"> All films written, directed and edited by Edmund Buckley&nbsp;&nbsp; </span> </p>
+		
+		
+		<p> Since 2010 Edmund has been writing his own scripts, directing and editing short films, documentaries and a feature film. </p>
+		<h3> SHORT FILMS</h3>
+      
+		<div class="photo-container"> </div>
+<p> The first short film, David by Edmund Buckley was made in Buenos Aires, Argentina on 35mm using an ARRI II Camera.</p>
+		
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/tqBHmPF8T2g?si=1vEN5bGV-SLGwzQv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+       
+        <p> Since then Edmund has made six more short films in Dublin, Ireland.</p>
+        
+        <iframe src="https://player.vimeo.com/video/207645479?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Misanthropicity"></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv1VuJkGLbk?si=VebxFlXQ1I1cHhbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GxAUuIrySkU?si=NoXGWSvv-18rYaEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/AjR7TMCNHoY?si=V0YeHs_WhJRMr9Ms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7GfUfH-HfAA?si=7xIE7ZZwFTZN7hYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Kk3vjDsTZzc?si=Sf3hd-SdqSchLC5_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+<h3> DOCUMENTARIES</h3>
+		<div class="photo-container"> </div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IsgZc0QZCk4?si=Kuzq9icAtch69Q6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p> Edmund has made two documentaries so far, Sunday School-The Evangelist Movement and The Value of Art.</p>
+		<p> He is currently planning a feature length documentary. </p>
+<div class="photo-container"> <img src="../tps/images/films/features/LET ME NOT.jpg" width="4056" height="3040" alt=""/>
+</div>
+		
+<p>&nbsp; </p>
+		<p>&nbsp;  </p>
+		
+		<h3> LET ME NOT...FEATURE FILM  &nbsp;</h3>
+		<p> In June of 2024 Edmund wrote, directed and edited his first feature length film.</p>
+		<p> Let Me Not...is currently being shown at International Film Festivals and is hoped to be released once this stage is completed. </p>
+		
+		</section>
+		
+	<aside class="col-sm-12 col-lg-4">
+	<h2> Filmography&nbsp; </h2>
+<img src="../tps/Background Logo.jpg" width="525" height="296" alt=""/>
+    <p> <span class="cColour italic">Edmund has made seven short films; David, Misanthropicity, The Abandoned House, The Coward, Enough, The Crossroads of Chance and Misanthropicity (Revisited). He has made two documentaries to date, Sunday School and the Value of Art and his first feature length film, Let Me Not...</span></p>
+    <p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp; </p>
+	<p>&nbsp; </p>
+    </aside> 
+		 
+    </div>
+	</div>
+	  
+	 
+	<div class="container">
+	 <div class="row">
+		 
+		<footer>
+		<h2 class="contact">Contact Us</h2>
+		 <div class="footerL col-sm-12 col-lg-6">
+		<p>edmundbckl@gmail.com&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+			 
+			 <p><a href="#top">Back to top</a></p>	 
+	 
+			</div>
+		 
+	<div class="footerR col-sm-12 col-lg-6">
+	<p><a href="mailto:edmundbckl@gmail.com"> Send Email</a></p>		
+	<p><a href="tel:0831748944">Tel: 0831748944</a></p>		
+	<p><a href="https://www.instagram.com/" target="_blank">Instagram &trade;</a></p>		
+	<p class="linked"><a href="https://ww.linkedin.com/" target="_blank">Linkedin</a></p>		
+	</div> 
+				
+		 </footer>
+		</div>
+	  </div> 
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+</body>
+</html>
