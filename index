@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Project Syndrome - Home Page</title>
+	 <meta name="description" content="The website is an online portfolio and shop for multi-faceted artist Edmund Buckley">
+<meta name="author" content="Edmund Buckley">
+			   
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	  <link href="css/styles.css" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	
+  </head>
+    <body style="padding-top: 70px"></body>
+  	<!-- body code goes here -->
+
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#">TPS</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="visualarts.html">Visual Arts</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="literature.html">Literature</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="films.html">Films</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="music.html">Music</a> </li>
+			<li class="nav-item"> <a class="nav-link" href="shop.html">Shop</a> </li>
+          
+        </ul>
+        <form action="https://www.google.ie/search" class="form-inline my-2 my-lg-0">
+          <input name="q" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav> <!-- navigation bar closed-->
+  
+
+      
+	  
+      <div class="container"></div> 
+      <div class="row"></div>
+		
+    
+    <!-- MAIN SECTION -->
+    
+          
+         <div class="container">
+  <div class="row">
+
+    <!-- MAIN SECTION (Carousel + What is TPS) -->
+    <section class="col-sm-12 col-lg-8">
+      <!-- Carousel -->
+      <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: #dcebca;">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+        </ol>
+
+        <div class="carousel-inner" role="listbox" style="height: 400px;">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="../tps/Carousel/Car1.jpg" alt="First slide" style="height: 400px; object-fit: contain;">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="../tps/Carousel/cropped horizon.jpg" alt="Second slide" style="height: 400px; object-fit: contain;">
+            <div class="carousel-caption">
+             
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="../tps/Carousel/Car3.jpg" alt="Third slide" style="height: 400px; object-fit: contain;">
+          </div>
+        </div>
+      </div>
+
+      <!-- Now the “What is The Project Syndrome?” section is INSIDE the same column -->
+      <div class="mt-4" style="background-color: #dcebca; padding: 20px; border-radius: 8px;">
+        <h2>What is The Project Syndrome?</h2>
+        <img src="../tps/Background Logo.jpg" width="100%" alt="Project Syndrome Logo" class="img-fluid mb-3">
+        <p><span style="color:#8c2d55; font-style:italic;">The Project Syndrome is a collection of various art forms, created by multifaceted artist Edmund Buckley.</span></p>
+        <p>He was born on 18 May 1979 in Ireland and has been creating original works since Art College, where he studied Visual Art, Literature, and Film. He also makes original music.</p>
+        <p>He founded The Project Syndrome in 2012 with his first poetry collection and soon expanded into literature, film, music, and visual arts.</p>
+        <p>The Project Syndrome evolved into an online portfolio and shop where you can view and purchase Edmund’s writing and paintings.</p>
+        <p>The Project Syndrome is always growing — keep up to date with the latest works here.</p>
+      </div>
+    </section>
+
+    <!-- ASIDE -->
+    <aside class="col-sm-12 col-lg-4">
+      <img src="../tps/images/visual art/painting/Fine Art/Fine Art/fine art/Art Portfolio/Cropped Art Portfolio 97-98/Self Portrait Oil.jpg" class="img-fluid mb-3" alt="Self Portrait">
+      <h2>Multi-Faceted Art</h2>
+      <p><span class="cColour italic">Edmund Buckley</span> is an Irish Artist.</p>
+      <p>Born 18 May 1979, he is the founder, writer, filmmaker, musician, and visual artist at The Project Syndrome.</p>
+    </aside>
+
+  </div> <!-- end row -->
+</div> <!-- end container -->
+
+
+		 
+	 
+	
+		 
+    
+	
+	  
+	  <div class="container">
+		<div class="row">
+		  
+	<div class="box1 col-sm-12 col-md-6 col-xl-3">
+	<h2>Visual Art&nbsp;</h2>
+	<p>Edmund shows his painting, drawing and photography in Visual Art<a href="file:///C:/Users/24DPryma.bife/OneDrive%20-%20KWETB/Web%20Authoring/Daria%20Pryma%20Web%20Authoring%205N1910%20Project/clothes.html"> starts on the next page</a> </p>
+		</div>
+		  
+		<div class="box1 col-sm-12 col-md-6 col-xl-3">
+		<h2>Literature&nbsp;</h2>
+	     <p>His poetry, novels and short stories can be seen here<a href="file:///C:/Users/24DPryma.bife/OneDrive%20-%20KWETB/Web%20Authoring/Daria%20Pryma%20Web%20Authoring%205N1910%20Project/makeup.html"> starts on the third page</a> </p>
+		</div>
+			
+		<div class="box1 col-sm-12 col-md-6 col-xl-3">
+		<h2>Films&nbsp;</h2>
+	     <p>Here you can view short films, documentaries and feature films<a href="file:///C:/Users/24DPryma.bife/OneDrive%20-%20KWETB/Web%20Authoring/Daria%20Pryma%20Web%20Authoring%205N1910%20Project/perfume.html"> follows on this page</a> </p>
+		</div>	
+	
+			<div class="box1 col-sm-12 col-md-6 col-xl-3">
+		<h2>Music&nbsp;</h2>
+	     <p>Click here to listen to Eddie Bears All's original music <a href="file:///C:/Users/24DPryma.bife/OneDrive%20-%20KWETB/Web%20Authoring/Daria%20Pryma%20Web%20Authoring%205N1910%20Project/accessories.html"> present on the page</a> </p>
+		</div>
+			
+			</div>
+		  </div>					
+
+	  
+	   <div class="scroll-container"> </div>
+	  
+	  
+	  
+	  
+	<div class="container">
+	 <div class="row">
+		
+		<footer>
+		<h2 class="contact">Contact Us</h2>
+		 <div class="footerL col-sm-12 col-lg-6">
+		<p>edmundbckl@gmail.com&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>	
+			 
+			 <p><a href="#carouselExampleIndicators1">Back to top</a></p>	 
+	 
+			</div>
+		 
+	<div class="footerR col-sm-12 col-lg-6">
+	<p><a href="mailto:edmundbckl@gmail.com"> Send Email</a></p>		
+	<p><a href="tel:0831748944">Tel: 0831748944</a></p>		
+	<p><a href="https://www.instagram.com/" target="_blank">Instagram &trade;</a></p>		
+	<p class="linked"><a href="https://ww.linkedin.com/" target="_blank">Linkedin</a></p>		
+	</div> 
+				
+		 </footer>
+		</div>
+	  </div> 
+	  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+  <script src="js/bootstrap-4.4.1.js"></script>
+  
+
+    
+
